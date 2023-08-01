@@ -1,0 +1,4 @@
+to remove from local >>> git branch -d branch name
+
+to remove branch from remote >>> git branch origin :branch-name
+
